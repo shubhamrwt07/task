@@ -1,0 +1,30 @@
+/* Breadcrumb.css */
+.breadcrumb {
+    margin: 20px 0;
+  }
+  
+  .breadcrumb-item {
+    font-size: 18px;
+  }
+  
+  .breadcrumb-item.active {
+    font-weight: bold;
+  }
+  
+  .breadcrumb-separator {
+    margin: 0 5px;
+  }
+  
+  .breadcrumb-item {
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  .breadcrumb-item:disabled {
+    color: #ccc;
+    cursor: not-allowed;
+  }
+  .navvv{
+    color: white;
+  }
+  
